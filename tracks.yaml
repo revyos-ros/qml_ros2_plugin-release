@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/qml_ros2_plugin-release.git
 tracks:
   humble:
     actions:
